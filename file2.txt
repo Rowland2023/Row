@@ -1,2 +1,0 @@
-name="Rowland"
-print(name[1:3])
